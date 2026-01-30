@@ -1,7 +1,12 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-
+#上海电信
+http://iptv.cqshushu.com/index.php?s=_LLIz1MM-lso42zMiL4BnQ&t=multicast&channels=1&format=m3u
+#广东电信
+http://iptv.cqshushu.com/index.php?s=ue0nWHE0AUxtLItutyD2fQ&t=multicast&channels=1&format=m3u
+#北京联通
+http://iptv.cqshushu.com/index.php?s=qSiV4nMYz68y8SFB5xY-pQ&t=multicast&channels=1&format=m3u
 
 
 
